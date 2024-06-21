@@ -1,1 +1,2 @@
 # Titanic-Survival-Prediction
+This project aims to develop a predictive model to determine the likelihood of passenger survival on the Titanic using various features such as age, gender, class, and other relevant factors. By analyzing the Titanic dataset, performing data preprocessing and feature engineering, and applying multiple machine learning algorithms, the goal is to achieve the highest possible accuracy in predicting survival.
